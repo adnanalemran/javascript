@@ -1,4 +1,4 @@
-var name = "hablu";
+const name = "hablu";
 
 if (name == "maklu") {
      console.log("this name is Maklu");
