@@ -11,3 +11,4 @@ function traverse(names,callback){
 traverse(names, function(name){
     console.log(name.toUpperCase());
 })
+
